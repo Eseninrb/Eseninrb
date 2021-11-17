@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Eseninrb
-- 👀 I’m interested in c++
-- 🌱 I’m currently learning basic c++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me a job
+- 👋 Hi, I’m gachilover
+- 👀 I’m interested in nnn
+- 🌱 I’m currently learning basic gachimoves
+- 💞️ I’m looking to collaborate on van
+- 📫 How to reach me a job with billy
 
 <!---
 Eseninrb/Eseninrb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
